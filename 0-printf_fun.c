@@ -25,7 +25,7 @@ return (handle_write_char(c, buffer, flags, width, precision, size));
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width.
- * @precision: Precision specification
+ * @precision: Precision specifier
  * @size: Size specifier
  * Return: Number of chars printed
  */
