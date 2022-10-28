@@ -20,7 +20,7 @@ return (handle_write_char(c, buffer, flags, width, precision, size));
 
 /* PRINT A STRING */
 /**
- * print_string - Prints a string
+ * print_string - prints a string 
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
